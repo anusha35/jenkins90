@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37362" started-at="2016-01-06T10:48:45Z" finished-at="2016-01-06T10:49:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37362" started-at="2016-01-06T10:48:45Z" finished-at="2016-01-06T10:49:22Z">
+      <class name="anusha.TestApp">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:anusha.TestApp@19bb089b]" name="setUp" is-config="true" duration-ms="5473" started-at="2016-01-06T16:18:45Z" finished-at="2016-01-06T16:18:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:anusha.TestApp@19bb089b]" name="test" duration-ms="31495" started-at="2016-01-06T16:18:51Z" finished-at="2016-01-06T16:19:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:anusha.TestApp@19bb089b]" name="tearDown" is-config="true" duration-ms="382" started-at="2016-01-06T16:19:22Z" finished-at="2016-01-06T16:19:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- anusha.TestApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
