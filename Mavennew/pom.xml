@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>Jenkins_demo</groupId>
-  <artifactId>Triangle_demo</artifactId>
-  <version>1.0</version>
+  <artifactId>Mavennew</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Triangle_demo</name>
+  <name>Mavennew</name>
   <url>http://maven.apache.org</url>
 
   <properties>
